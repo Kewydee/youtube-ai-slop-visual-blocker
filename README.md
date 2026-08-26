@@ -1,3 +1,8 @@
+This is a custom script to nuke video blocks based on visual color histograms
+instead of text or channel names.
+
+Specifically the Chinese guy in a white shirt AI Slop video.
+
 # YouTube AI Slop Visual Blocker
 
 A lightweight Chromium browser extension (Chrome, Opera, Brave, Edge) designed to automatically hide low-effort, automated AI avatar channels from your YouTube feed using real-time canvas visual analysis.
