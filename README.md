@@ -4,7 +4,7 @@ A lightweight Chromium browser extension (Chrome, Opera, Brave, Edge) designed t
 
 ## 🚫 The Problem
 
-Automated channel factories generate thousands of videos a day using identical stock AI voice and video avatars (such as the viral "Marcus" avatar wearing a white shirt). Because you are browsing logged out, the YouTube recommendation algorithm continuously pushes these high-volume video templates to your feed. Standard keyword or channel blocking fails because new bot channels are spun up daily.
+Automated channel factories generate thousands of videos a day using identical stock AI voice and video avatars (such as the viral "Marcus" avatar wearing a white shirt). If you are browsing logged out, the YouTube recommendation algorithm continuously pushes these high-volume video templates to your feed. Standard keyword or channel blocking fails because new bot channels are spun up daily.
 
 ## 🛠️ How It Works
 
