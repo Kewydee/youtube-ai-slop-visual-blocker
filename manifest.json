@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "AI Slop Visual Blocker",
+  "version": "1.0",
+  "description": "Uses AI to scan and block specific visual elements and repeating slop avatars on YouTube thumbnails.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["src/content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "src/popup.html"
+  }
+}
